@@ -8,7 +8,7 @@
                     class="h-10 w-auto object-cover md:h-12"
                 >
                 <div>
-                    <p class="font-['Playfair_Display',serif] text-xl font-bold text-slate-900">{{ content.home.hero.title }}</p>
+                    <p class="font-['Playfair_Display',serif] text-xl font-bold text-slate-900">{{ content.identity.churchName }}</p>
                     <p class="text-xs uppercase tracking-[0.2em] text-slate-500">{{ content.identity.tagline }}</p>
                 </div>
             </div>

@@ -3,7 +3,7 @@ import type { SiteContent } from '~/types/content'
 export const siteContent: SiteContent = {
     identity: {
         churchName: 'Raw Power Ministry',
-        tagline: 'Raw Power Ministry'
+        tagline: 'Apostle GE Jackson'
     },
     navigation: [
         { id: 'home', label: 'Home', to: '/' },
