@@ -14,10 +14,10 @@ export const siteContent: SiteContent = {
     home: {
         hero: {
             eyebrow: 'A P O S T L E',
-            title: 'G.E JACKSON',
+            title: 'GE JACKSON',
             description: 'Global Minister |  Lead Pastor',
             subDescription:
-                'Apostle G.E. Jackson has dedicated his life to proclaiming the Kingdom of God through Raw Power Ministry, leading miracle crusades, healing services, and revival gatherings across America.',
+                'Apostle GE Jackson has dedicated his life to proclaiming the Kingdom of God through Raw Power Ministry, leading miracle crusades, healing services, and revival gatherings across America.',
             actions: [
                 { label: 'Plan Your Visit', to: '/#contact', size: 'lg' },
                 { label: 'Learn More', to: '/about', variant: 'ghost', size: 'lg' }
@@ -45,7 +45,7 @@ export const siteContent: SiteContent = {
             eyebrow: 'Media',
             title: 'Latest Media & Broadcasts',
             description:
-                'Watch recent messages, miracle testimonies, and featured broadcasts from Apostle G.E. Jackson.'
+                'Watch recent messages, miracle testimonies, and featured broadcasts from Apostle GE Jackson.'
         },
         serviceTimes: [
             { name: 'Miracle Crusade Highlights', time: 'Watch now' },

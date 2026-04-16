@@ -21,7 +21,7 @@
                     {{ content.title }}
                 </h1>
                 <p class="mt-4 text-sm font-semibold uppercase tracking-[0.28em] text-slate-200 md:text-base">
-                    {{ content.description }}
+                    <!-- {{ content.description }} --><br>
                 </p>                
                 <p class="mt-4 text-xs font-normal uppercase tracking-[0.28em] text-slate-200 md:text-sm">
                     {{ content.subDescription }}
